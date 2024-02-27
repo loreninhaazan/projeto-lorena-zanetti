@@ -1,0 +1,40 @@
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h1 {color:green}
+h1 {font-size: 250%;}
+h1 {border-style: solid;
+    border-color:black;
+
+}
+h2 {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h2 {font-size: 150%;}
+h4 {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  
+}
+h4 {font-size: 150%;}
+h3 {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+h3 {font-size: 200%;
+    color: green;
+    border-style: solid;
+    border-color:black;
+}
+#ima1{width: 20%;}
